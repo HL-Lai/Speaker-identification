@@ -24,6 +24,6 @@ To download the dataset, you need the link from `Dataset.py`.  Remember to downl
 ## Instructions
 1. Download the whole directory and save it into a folder.
 2. Choose kernel (e.g. `handhand`) and simply press `run all`.  The codes should be able to handle most errors, including ImportError
-3. Please tell me in case of any error~
+3. Please tell me if there are any bugs~
 <br>
 Thanksss!
