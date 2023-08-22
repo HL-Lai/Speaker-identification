@@ -1,6 +1,6 @@
 ### Log Updates
 [2023-08-22 9:56AM]
-All the codes can run now!
+**All the codes can run now!**
 
 [2023-08-22 9:49AM]
 Can run:
@@ -15,11 +15,6 @@ Can run the following codes:
 * `[batch] Speaker_identification_updated_batch.ipynb`
 * `[conformer] Speaker_identification_updated_conformer.ipynb`
 * `[model] Speaker_identification_updated_model.ipynb`
-
-p.s. the `[model]` code requires importing `torchaudio`.<br>
-If there is `ModuleNotFoundError` or `ImportError` for `torchaudio` (not being installed), may need to install by:
-* `conda install torchaudio -c pytorch -c nvidia` OR
-* `pip3 install torchaudio --index-url https://download.pytorch.org/whl/cu118`
 
 ### Estimated time for each device
 | Code | NVIDIA GeForce RTX 4090 | Google Colab <br>(Tesla T4) | M1 (MPS) |
@@ -38,3 +33,8 @@ To download the dataset, you need the link from `Dataset.py`.  Remember to downl
 3. Please tell me if there are any bugs~
 <br>
 Thanksss!
+<p><p><p>
+p.s. the `[model]` code requires importing `torchaudio`.<br>
+If there is `ModuleNotFoundError` or `ImportError` for `torchaudio` (not being installed), may need to install by:
+* `conda install torchaudio -c pytorch -c nvidia` OR
+* `pip3 install torchaudio --index-url https://download.pytorch.org/whl/cu118`
