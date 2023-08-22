@@ -25,7 +25,7 @@ If there is `ModuleNotFoundError` or `ImportError` for `torchaudio` (not being i
 | Code | NVIDIA GeForce RTX 4090 | Google Colab <br>(Tesla T4) | M1 (MPS) |
 | :- | :- | :- | :- |
 | `[batch] Speaker_identification_updated_batch.ipynb` | ~1 hour<br>(20 + 20 + 30 mins) | ~5 hours<br>(60 + 90 + 150 mins) | ~3 hours<br>(40 + 60 + 120 mins) |
-| `[conformer] Speaker_identification_updated_conformer.ipynb` | ~1 hours | ~2 hours | ~1.5 hours |
+| `[conformer] Speaker_identification_updated_conformer.ipynb` | ~40 mins<br>(20 + 20 mins) | ~2 hours | ~1 hour |
 | `[model] Speaker_identification_updated_model.ipynb` | ~1 hour | ~3 hours | ~2 hours |
 
 ### Dataset
