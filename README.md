@@ -1,4 +1,7 @@
 ### Updates
+[2023-08-22 9:24AM]
+Don't run yet
+
 [2023-08-22 1:38AM]
 Can run the following codes:
 * `[batch] Speaker_identification_updated_batch.ipynb`
