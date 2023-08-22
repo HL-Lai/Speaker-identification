@@ -1,4 +1,12 @@
 ### Log Updates
+[2023-08-22 9:56AM]
+All the codes can run now!
+
+[2023-08-22 9:49AM]
+Can run:
+* `[batch] Speaker_identification_updated_batch.ipynb`
+* `[model] Speaker_identification_updated_model.ipynb`
+
 [2023-08-22 9:24AM]
 Don't run yet
 
