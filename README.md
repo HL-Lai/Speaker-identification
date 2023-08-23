@@ -2,15 +2,15 @@
 [2023-08-22 9:56AM]
 **All the codes can run now!**
 
-[2023-08-22 9:49AM]
-Can run:
+~[2023-08-22 9:49AM]~
+These codes can run:
 * `[batch] Speaker_identification_updated_batch.ipynb`
 * `[model] Speaker_identification_updated_model.ipynb`
 
-[2023-08-22 9:24AM]
+~[2023-08-22 9:24AM]~
 Don't run yet
 
-[2023-08-22 1:38AM]
+~[2023-08-22 1:38AM]~
 Can run the following codes:
 * `[batch] Speaker_identification_updated_batch.ipynb`
 * `[conformer] Speaker_identification_updated_conformer.ipynb`
@@ -38,13 +38,17 @@ All these files would be zipped into one zip file `files_send.zip`.
 # Steps
 1. Download the whole directory and save it into a folder.
 2. Choose kernel (e.g. `handhand`) and simply press `run all`.  The codes should be able to handle most errors, including `ImportError`
-3. Send me the `ipynb` files and `files_send.zip`.
+3. Send me the **saved** `ipynb` files and `files_send.zip`.
 * Please tell me if there are any bugs~
-<br>
+
 Thanksss!
 <p><p><p>
+
+***
 
 p.s. the `[model]` code requires importing `torchaudio`.<br>
 If there is `ModuleNotFoundError` or `ImportError` for `torchaudio` (not being installed), may need to install by:
 * `conda install torchaudio -c pytorch -c nvidia` OR
 * `pip3 install torchaudio --index-url https://download.pytorch.org/whl/cu118`
+
+reference: https://pytorch.org/get-started/locally/
