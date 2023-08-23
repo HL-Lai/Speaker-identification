@@ -17,11 +17,11 @@ Can run the following codes:
 * `[model] Speaker_identification_updated_model.ipynb`
 
 ## Estimated time for each device
-| Code | NVIDIA GeForce RTX 4090 | Google Colab <br>(Tesla T4) | M1 (MPS) |
-| :- | :- | :- | :- |
-| `[batch] Speaker_identification_updated_batch.ipynb` | ~1 hour<br>(20+20+30mins) | ~5 hours<br>(60+90+150mins) | ~3 hours<br>(40+60+120mins) |
-| `[conformer] Speaker_identification_updated_conformer.ipynb` | ~40 mins<br>(20+20mins) | ~2 hours | ~1 hour |
-| `[model] Speaker_identification_updated_model.ipynb` | ~1 hour | ~3 hours | ~2 hours |
+| Code | NVIDIA GeForce RTX 4090 | Google Colab <br>(Tesla T4) | Kaggle Notebook<br>(P100) | M1 (MPS) |
+| :- | :- | :- | :- | :- |
+| `[batch] Speaker_identification_updated_batch.ipynb` | ~1 hour<br>(20+20+30mins) | ~5 hours<br>(60+90+150mins) | Tbc | ~3 hours<br>(40+60+120mins) |
+| `[conformer] Speaker_identification_updated_conformer.ipynb` | ~40 mins<br>(20+20mins) | ~2 hours | Tbc | ~1 hour |
+| `[model] Speaker_identification_updated_model.ipynb` | ~1 hour | ~3 hours | 1.5 hours<br>(30+45+20mins) | ~2 hours |
 
 ## Dataset
 Dataset can be downloaded via my google drive, which is embedded in the code.<br>
